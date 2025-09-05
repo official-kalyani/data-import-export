@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "password": "$2y$12$exampleHashedPassword1"
+  },
+  {
+    "name": "Bob Smith",
+    "email": "bob@example.com",
+    "password": "$2y$12$exampleHashedPassword2"
+  },
+  {
+    "name": "Charlie Brown",
+    "email": "charlie@example.com",
+    "password": "$2y$12$exampleHashedPassword3"
+  }
+]

@@ -1,0 +1,4 @@
+name,email,password
+Alice Johnson,alice@example.com,$2y$12$exampleHashedPassword1
+Bob Smith,bob@example.com,$2y$12$exampleHashedPassword2
+Charlie Brown,charlie@example.com,$2y$12$exampleHashedPassword3

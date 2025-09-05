@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+  <row>
+    <name>Alice Johnson</name>
+    <email>alice@example.com</email>
+    <password>$2y$12$exampleHashedPassword1</password>
+  </row>
+  <row>
+    <name>Bob Smith</name>
+    <email>bob@example.com</email>
+    <password>$2y$12$exampleHashedPassword2</password>
+  </row>
+  <row>
+    <name>Charlie Brown</name>
+    <email>charlie@example.com</email>
+    <password>$2y$12$exampleHashedPassword3</password>
+  </row>
+</rows>
